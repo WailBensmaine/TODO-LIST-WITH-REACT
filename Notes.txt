@@ -1,0 +1,2 @@
+-- Search about styled-components in react.
+-- Search for when you need to add the opperator "()" after yhe name of the function in the eventHanddle and when not. (return back to the tutorial of dave gray (the time = 46:27))
